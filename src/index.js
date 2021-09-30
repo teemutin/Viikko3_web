@@ -9,5 +9,10 @@ if (document.readyState !== "loading") {
 }
 
 function initializeCode() {
-  document.getElementById("app").innerHTML = "<h1>Hello!</h1>";
+  /*document.getElementById("app").innerHTML = "<h1>Hello!</h1>";*/
+  let newDiv = document.createElement("div");
+  let newHeader = document.createElement("h1");
+  console.log(newDiv);
+  console.log(newHeader);
+  newDiv.classList.add("Luokka");
 }
