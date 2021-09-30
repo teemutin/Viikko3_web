@@ -1,2 +1,3 @@
-# Viikko3_web
-Created with CodeSandbox
+# vanilla-template
+
+This is a template for weekly assignments.
